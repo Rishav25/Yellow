@@ -13,5 +13,5 @@ Database - MongoDB
 ### Watch trailers by clicking on the gold play button
 ![Untitledvideo-MadewithClipchamp3-ezgif com-video-to-gif-converter](https://github.com/Rishav25/Yellow/assets/75539207/94974347-6835-4f33-83fc-c9e555f3bf33)
 
-### Write reviews which persist
+### Write reviews
 ![ezgif com-video-to-gif-converter (1)](https://github.com/Rishav25/Yellow/assets/75539207/b554dbdd-6696-40b5-ac06-16a73d5d66ff)
